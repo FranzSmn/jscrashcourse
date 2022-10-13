@@ -1,0 +1,5 @@
+// Initialize a new local repository
+
+git init
+git config --global user.name 'FranzSmn'
+git config --global user.email 'franzqsimon@gmail.com'

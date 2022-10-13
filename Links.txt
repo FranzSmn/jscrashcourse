@@ -1,0 +1,5 @@
+//Replit link 
+https://replit.com/@FranzAngelDanAn/FORK-THIS-JavaScript-Course-by-Clever-Programmer#yourPlayground.js
+
+//YT Link for actual tutorial
+https://www.youtube.com/watch?v=lI1ae4REbFM&t=14596s
