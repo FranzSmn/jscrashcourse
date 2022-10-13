@@ -3,3 +3,7 @@
 git init
 git config --global user.name 'FranzSmn'
 git config --global user.email 'franzqsimon@gmail.com'
+git add .
+git commit -m 'Comment Here'
+git remote add origin https://github.com/FranzSmn/jscrashcourse.git
+git push -u origin master
