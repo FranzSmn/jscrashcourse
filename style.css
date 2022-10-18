@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.color-box p{
+    width: 200px;
+    height: 200px;
+}
+
+.color-box .red{
+    background-color: red;
+}
+
+.color-box .yellow{
+    background-color: yellow;
+}
+
+.color-box .green{
+    background-color: green;
+}
+
+.color-box .redDiv{
+    height: 100px;
+    width: 100px;
+    border: solid;
+    background-color: red;
+}
